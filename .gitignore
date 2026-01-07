@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+dataset/
+datasets/
+cifar-10-batches-py/
+FashionMNIST/
+MNIST/
+
+# Model checkpoints
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
